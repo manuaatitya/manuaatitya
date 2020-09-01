@@ -1,4 +1,5 @@
 <!--START_SECTION:waka-->
+![Cpp](https://img.shields.io/badge/-C%2B%2B-brightgreen)
 ![Python](https://img.shields.io/badge/-python-blue)
 ![Matlab](https://img.shields.io/badge/-Matlab-orange)
 ![ROS](https://img.shields.io/badge/-ROS-%23002366)

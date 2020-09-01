@@ -11,7 +11,7 @@ Python   5 mins          ███▓░░░░░░░░░░░░░░�
 Perl     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 <!--END_SECTION:waka-->
-### Hi there 👋
+### >> print("Hi there 👋")
 
 <!--
 **manuaatitya/manuaatitya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

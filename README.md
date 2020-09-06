@@ -1,3 +1,13 @@
+![Cpp](https://img.shields.io/badge/-C%2B%2B-brightgreen)
+![Python](https://img.shields.io/badge/-python-blue)
+![Matlab](https://img.shields.io/badge/-Matlab-orange)
+![ROS](https://img.shields.io/badge/-ROS-%23002366)
+![Gazebo](https://img.shields.io/badge/-Gazebo-%23FFA500)
+<details>
+  <summary> My Github Statistics... </summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=manuaatitya&hide=issues,prs&theme=dark"/>
+ </details>
+
 <!--START_SECTION:waka-->
 ```text
 CMake      37 mins         ████████▒░░░░░░░░░░░░░░░░   33.44 % 

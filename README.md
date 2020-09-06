@@ -1,9 +1,4 @@
 <!--START_SECTION:waka-->
-![Cpp](https://img.shields.io/badge/-C%2B%2B-brightgreen)
-![Python](https://img.shields.io/badge/-python-blue)
-![Matlab](https://img.shields.io/badge/-Matlab-orange)
-![ROS](https://img.shields.io/badge/-ROS-%23002366)
-![Gazebo](https://img.shields.io/badge/-Gazebo-%23FFA500)
 ```text
 CMake      37 mins         ████████▒░░░░░░░░░░░░░░░░   33.44 % 
 Markdown   36 mins         ████████░░░░░░░░░░░░░░░░░   32.16 % 

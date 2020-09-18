@@ -7,7 +7,8 @@
   <summary> My Github Statistics... </summary>
     <img src="https://github-readme-stats.vercel.app/api?username=manuaatitya&hide=issues,prs&theme=dark"/>
  </details>
-
+ 
+#### My Daily Statistics...
 <!--START_SECTION:waka-->
 ```text
 Python       1 hr 56 mins    █████████████████████░░░░   83.95 % 

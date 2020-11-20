@@ -11,8 +11,7 @@
 #### My Daily Statistics...
 <!--START_SECTION:waka-->
 ```text
-CSS    2 hrs 30 mins   ███████████████▓░░░░░░░░░   62.28 % 
-HTML   1 hr 31 mins    █████████▒░░░░░░░░░░░░░░░   37.72 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ### >> print("Hi there 👋")

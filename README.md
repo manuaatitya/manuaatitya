@@ -11,8 +11,7 @@
 #### My Daily Statistics...
 <!--START_SECTION:waka-->
 ```text
-Other    20 mins         ████████████████████▓░░░░   82.71 % 
-Python   4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.29 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ### >> print("Hi there 👋")

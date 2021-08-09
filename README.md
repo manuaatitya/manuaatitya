@@ -16,7 +16,9 @@
 Python   17 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
-<!-- ### >> print("Hi there 👋") -->
+
+## Connect with me <img src='assets/handshake.gif' width="90px">
+
 
 
 <!--

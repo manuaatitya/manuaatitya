@@ -8,13 +8,16 @@
     <img src="https://github-readme-stats.vercel.app/api?username=manuaatitya&hide=issues,prs&theme=dark"/>
  </details>
  
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 #### My Daily Statistics...
 <!--START_SECTION:waka-->
 ```text
 Python   17 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
-### >> print("Hi there 👋")
+<!-- ### >> print("Hi there 👋") -->
+
 
 <!--
 **manuaatitya/manuaatitya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

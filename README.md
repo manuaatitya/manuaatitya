@@ -24,7 +24,8 @@ Python   17 mins         ██████████████████�
 ## Connect with me <img src='assets/handshake.gif' width="80px">
 <p>
 <a href="https://www.linkedin.com/in/manu-aatitya-r-p-78457412b/" target="_blank"> <img src='assets/linkedin.gif' width="70px"> </a> &nbsp &nbsp
-<a href="https://twitter.com/Manuaatitya/" target="_blank"> <img src='assets/twitter.gif' width="65px"> </a>
+<a href="https://twitter.com/Manuaatitya/" target="_blank"> <img src='assets/twitter.gif' width="65px"> </a> &nbsp &nbsp
+<a href="https://www.facebook.com/manu.aatitya/" target="_blank"> <img src='assets/facebook.gif' width="61px"> </a>
 </p>
 
 

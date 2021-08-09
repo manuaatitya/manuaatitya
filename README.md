@@ -17,7 +17,9 @@ Python   17 mins         ██████████████████�
 ```
 <!--END_SECTION:waka-->
 
-## Connect with me <img src='assets/handshake.gif' width="90px">
+## Connect with me <img src='assets/handshake.gif' width="80px">
+
+<a href="https://www.linkedin.com/in/manu-aatitya-r-p-78457412b/" target="_blank"> <img src='assets/linkedin.gif' width="70px"> </a>
 
 
 

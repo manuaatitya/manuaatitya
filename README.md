@@ -3,12 +3,16 @@
 ![Matlab](https://img.shields.io/badge/-Matlab-orange)
 ![ROS](https://img.shields.io/badge/-ROS-%23002366)
 ![Gazebo](https://img.shields.io/badge/-Gazebo-%23FFA500)
-<details>
+
+
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- <details>
   <summary> My Github Statistics... </summary>
     <img src="https://github-readme-stats.vercel.app/api?username=manuaatitya&hide=issues,prs&theme=dark"/>
- </details>
+ </details> -->
  
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## My Github Statistics ...
+![Metrics](https://metrics.lecoq.io/manuaatitya?template=terminal&base.header=0&base.metadata=0&config.timezone=Asia%2FCalcutta) 
 
 #### My Daily Statistics...
 <!--START_SECTION:waka-->

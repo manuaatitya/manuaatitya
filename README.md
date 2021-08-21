@@ -17,9 +17,9 @@
 #### My Daily Statistics...
 <!--START_SECTION:waka-->
 ```text
-C++          4 hrs 4 mins    ████████████████████████░   95.55 % 
-Makefile     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+C++          3 hrs 46 mins   ███████████████████████▓░   95.23 % 
+Makefile     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 <!--END_SECTION:waka-->
 

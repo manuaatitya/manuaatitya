@@ -17,8 +17,9 @@
 #### My Daily Statistics...
 <!--START_SECTION:waka-->
 ```text
-C          4 hrs 8 mins    █████████████████████▓░░░   86.93 % 
-Makefile   36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+C          2 hrs 53 mins   █████████████████████░░░░   84.66 % 
+Makefile   26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Text       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -17,7 +17,10 @@
 #### My Daily Statistics...
 <!--START_SECTION:waka-->
 ```text
-YAML   1 hr 13 mins    ████████████████████████▓   99.23 % 
+HTML         2 hrs 7 mins    █████████████▒░░░░░░░░░░░   52.88 % 
+YAML         1 hr 13 mins    ███████▓░░░░░░░░░░░░░░░░░   30.33 % 
+CSS          35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 <!--END_SECTION:waka-->
 

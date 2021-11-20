@@ -17,8 +17,8 @@
 #### My Daily Statistics...
 <!--START_SECTION:waka-->
 ```text
-C        1 hr 46 mins    ███████████████▒░░░░░░░░░   61.19 % 
-YAML     1 hr 6 mins     █████████▓░░░░░░░░░░░░░░░   38.59 % 
+C        1 hr 35 mins    ██████████████▓░░░░░░░░░░   58.58 % 
+YAML     1 hr 6 mins     ██████████▒░░░░░░░░░░░░░░   41.23 % 
 ```
 <!--END_SECTION:waka-->
 

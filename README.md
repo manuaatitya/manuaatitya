@@ -17,8 +17,7 @@
 #### My Daily Statistics...
 <!--START_SECTION:waka-->
 ```text
-Python     1 hr 7 mins     ████████████████████████░   96.23 % 
-Text       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Python     1 hr 7 mins     ████████████████████████▓   99.13 % 
 ```
 <!--END_SECTION:waka-->
 

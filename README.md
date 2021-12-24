@@ -17,7 +17,7 @@
 #### My Daily Statistics...
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr            █████████████████████████   99.62 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

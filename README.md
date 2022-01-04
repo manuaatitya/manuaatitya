@@ -17,7 +17,8 @@
 #### My Daily Statistics...
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java   25 mins         ████████████████▓░░░░░░░░   66.26 % 
+C      12 mins         ████████▒░░░░░░░░░░░░░░░░   33.74 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -17,11 +17,11 @@
 #### My Recent Statistics...
 <!--START_SECTION:waka-->
 ```text
-C++                 8 hrs 57 mins   ████████████▓░░░░░░░░░░░░   50.52 % 
-C                   6 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   37.33 % 
-ObjectiveC          1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Objective-C         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Debian Sourcelist   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+C                   6 hrs 11 mins   ███████████▒░░░░░░░░░░░░░   45.50 % 
+C++                 6 hrs 2 mins    ███████████░░░░░░░░░░░░░░   44.38 % 
+ObjectiveC          57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Objective-C         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Debian Sourcelist   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 <!--END_SECTION:waka-->
 

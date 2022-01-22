@@ -17,10 +17,9 @@
 #### My Recent Statistics...
 <!--START_SECTION:waka-->
 ```text
-C++           4 hrs 22 mins   ████████████▒░░░░░░░░░░░░   49.77 % 
-C             3 hrs 45 mins   ██████████▓░░░░░░░░░░░░░░   42.86 % 
-ObjectiveC    21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Objective-C   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+C             3 hrs 29 mins   █████████████████████░░░░   84.63 % 
+Python        21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Objective-C   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 ```
 <!--END_SECTION:waka-->
 

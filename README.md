@@ -17,6 +17,8 @@
 #### My Recent Statistics...
 <!--START_SECTION:waka-->
 ```text
+Total: 35 hrs 43 mins
+
 C++          14 hrs 44 mins  ██████████▒░░░░░░░░░░░░░░   41.26 % 
 Java         10 hrs 10 mins  ███████░░░░░░░░░░░░░░░░░░   28.50 % 
 C            3 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 % 

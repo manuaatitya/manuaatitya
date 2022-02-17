@@ -17,13 +17,13 @@
 #### My Recent Statistics...
 <!--START_SECTION:waka-->
 ```text
-Total: 35 hrs 43 mins
+Total: 36 hrs 36 mins
 
-C++          14 hrs 44 mins  ██████████▒░░░░░░░░░░░░░░   41.26 % 
-Java         10 hrs 10 mins  ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-C            3 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-ObjectiveC   3 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Python       3 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Java         18 hrs 40 mins  ████████████▓░░░░░░░░░░░░   51.01 % 
+C++          9 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.56 % 
+C            3 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Python       2 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+ObjectiveC   2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 ```
 <!--END_SECTION:waka-->
 

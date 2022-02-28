@@ -16,13 +16,16 @@
 
 #### My Recent Statistics...
 <!--START_SECTION:waka-->
+
 ```text
-C++          26 hrs 44 mins  ████████████░░░░░░░░░░░░░   47.48 % 
-Java         19 hrs 55 mins  █████████░░░░░░░░░░░░░░░░   35.40 % 
-ObjectiveC   4 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-C            4 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Makefile     38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+C++              29 hrs 1 min    ██████████████▓░░░░░░░░░░   58.44 %
+Java             12 hrs 27 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.11 %
+ObjectiveC       3 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+C                3 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Makefile         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+JSON             17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
+
 <!--END_SECTION:waka-->
 
 ## Connect with me <img src='assets/handshake.gif' width="80px">

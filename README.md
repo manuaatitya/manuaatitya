@@ -1,3 +1,5 @@
+![Java](https://img.shields.io/badge/-Java-yellow)
+![Android](https://img.shields.io/badge/-Android-grey)
 ![Cpp](https://img.shields.io/badge/-C%2B%2B-brightgreen)
 ![Python](https://img.shields.io/badge/-python-blue)
 ![Matlab](https://img.shields.io/badge/-Matlab-orange)

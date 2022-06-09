@@ -7,7 +7,7 @@
 ![Gazebo](https://img.shields.io/badge/-Gazebo-%23FFA500)
 
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="40px">
 <!-- <details>
   <summary> My Github Statistics... </summary>
     <img src="https://github-readme-stats.vercel.app/api?username=manuaatitya&hide=issues,prs&theme=dark"/>
@@ -30,11 +30,11 @@ XML          15 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-## Connect with me <img src='assets/handshake.gif' width="80px">
+## Connect with me <img src='assets/handshake.gif' width="80px" height="60px">
 <p>
-<a href="https://www.linkedin.com/in/manu-aatitya-r-p-78457412b/" target="_blank"> <img src='assets/linkedin.gif' width="70px"> </a> &nbsp &nbsp
-<a href="https://twitter.com/Manuaatitya/" target="_blank"> <img src='assets/twitter.gif' width="65px"> </a> &nbsp &nbsp
-<a href="https://www.facebook.com/manu.aatitya/" target="_blank"> <img src='assets/facebook.gif' width="61px"> </a>
+<a href="https://www.linkedin.com/in/manu-aatitya-r-p-78457412b/" target="_blank"> <img src='assets/linkedin.gif' width="70px" height="70px"> </a> &nbsp &nbsp
+<a href="https://twitter.com/Manuaatitya/" target="_blank"> <img src='assets/twitter.gif' width="65px" height="70px"> </a> &nbsp &nbsp
+<a href="https://www.facebook.com/manu.aatitya/" target="_blank"> <img src='assets/facebook.gif' width="61px" height="70px"> </a>
 </p>
 
 

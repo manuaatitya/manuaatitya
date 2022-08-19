@@ -20,10 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java     14 hrs 40 mins  █████████████████▓░░░░░░░   70.55 %
-XML      4 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   23.48 %
-Groovy   1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Prolog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash   0 secs          █████████████████████████   100.00 %
+Other   9 mins          ███████████████████████▒░   93.89 %
 ```
 
 <!--END_SECTION:waka-->

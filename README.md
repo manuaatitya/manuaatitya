@@ -20,7 +20,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+CMake         1 min           ██████████████████▓░░░░░░   74.32 %
+Objective-C   0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.42 %
+C             0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
 ```
 
 <!--END_SECTION:waka-->

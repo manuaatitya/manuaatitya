@@ -20,7 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+CMake         29 mins         █████████████▒░░░░░░░░░░░   53.64 %
+C++           10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
+C             8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+Objective-C   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Python        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
 ```
 
 <!--END_SECTION:waka-->

@@ -19,8 +19,12 @@
 #### My Recent Statistics...
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
+```txt
+C++           1 hr 12 mins    ████████░░░░░░░░░░░░░░░░░   31.78 %
+Python        51 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
+C             50 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
+XML           32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+TSQL          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
 
 <!--END_SECTION:waka-->

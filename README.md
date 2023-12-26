@@ -20,8 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   1 min           ███████████████████░░░░░░   76.17 %
-Python       0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

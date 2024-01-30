@@ -20,8 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GitIgnore file   0 secs          ███████████████████████░░   91.96 %
-Markdown         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Python           1 hr 19 mins    ██████████████████████▓░░   90.27 %
+Markdown         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+YAML             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
